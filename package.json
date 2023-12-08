@@ -1,8 +1,8 @@
 {
-  "name": "goit-typescript-hw-01",
+  "name": "goit-advancedjs-hw-06",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "start": "web-dev-server --node-resolve --open --watch"
   },
